@@ -1,0 +1,6 @@
+id,date,customer_name,product,quantity,price
+1,01-04-2025,Alice,Laptop,1,1200
+2,02-04-2025,Bob,Smartphone,2,800
+3,03-04-2025,Charlie,Tablet,3,300
+4,04-04-2025,Diana,Monitor,2,150
+5,05-04-2025,Ethan,Keyboard,5,50
